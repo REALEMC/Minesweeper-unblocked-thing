@@ -1,6 +1,4 @@
 // Adding an event listener
-//Hello player I see that you are looking through the game files to see what happens if you win well because it seems that your a bit smart I will let you in on a secret The unblocker is not on minesweeper its actually unlocked on the secret path Have fun :D
-
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.querySelector('.grid');
     const flagsLeft = document.querySelector('#flags-left');
@@ -244,3 +242,19 @@ document.addEventListener('DOMContentLoaded', () => {
       location.reload();
     });
   });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Hello player I see that you are looking through the game files to see what happens if you win well because it seems that your a bit smart I will let you in on a secret The unblocker is not on minesweeper its actually unlocked on the secret path Have fun :D
